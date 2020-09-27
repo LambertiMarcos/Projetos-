@@ -1,2 +1,2 @@
 # Projetos
-Projetos para apresentação de Soft Skills
+Projetos para apresentação do projeto de "Soft Skills".
